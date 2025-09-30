@@ -27,7 +27,7 @@ Lab2&3/ – Part and assembly model of a two part cabinet
 
 Lab4A&4B/ – Part and assembly of a water pump with the base
 
-Lab5/ – Part and assembly of mechanical tool
+Lab5/ – Part and assembly of vase screw tool
 
 Note: SolidWorks .sldprt (part), .sldasm (assembly), and .slddrw (drawing) files are included. Screenshots are provided for easier viewing without SolidWorks.
 
